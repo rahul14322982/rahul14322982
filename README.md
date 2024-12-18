@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning =HTML and CSS and JavaScript 
 - 💞️ I’m looking to collaborate on ...= learning computer language 
 - 📫 How to reach me ...=by (9741223416)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...=
 chatting with my friends 
 <!---
