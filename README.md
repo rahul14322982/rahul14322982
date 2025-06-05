@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul14322982
 - 👀 I’m interested in = software field (i am interested in developing app and website)
-- 🌱 I’m currently learning =HTML and CSS and JavaScript 
+- 🌱 I’m currently learning =HTML and CSS and JavaScript,Flutter framework, Dart program.
 - 💞️ I’m looking to collaborate on ...= learning computer language 
 - 📫 How to reach me ...=by (9741223416)
 - ⚡ Fun fact: ...=
