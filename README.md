@@ -58,11 +58,11 @@ Hi, I’m Rahul K.S 👋
 
 **🤖 AI & ML**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <!-- CrewAI (Custom Icon) -->
-  <img src="crew_only_logo.avif" width="100" height="100" alt="CrewAI" />
+  <img src="crew_only_logo.avif" width="110" height="110" alt="CrewAI" />
+  
   <!-- CNN (Deep Learning Custom Icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Convolutional_Neural_Network_icon.png" width="48" height="48" alt="CNN" />
+  <img src="n8n-docs-icon.svg" width="80" height="80" alt="n8n" />
 </p>
 
 ---
