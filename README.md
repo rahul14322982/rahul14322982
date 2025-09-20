@@ -1,17 +1,75 @@
-🔗 🧠About Me
+---
 
-- 👋 Hi, I’m @rahul14322982
-- 👀 I’m interested in = software field (i am interested in developing app and website)
-- 🌱 I’m currently learning =HTML and CSS and JavaScript,Flutter framework, Dart program.
-- 💞️ I’m looking to collaborate on ...= learning computer language 
-- 📫 How to reach me ...=by (9741223416)
-- ⚡ Fun fact: ...=
-chatting with my friends 
-<!---
-rahul14322982/rahul14322982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
 
-🔗 Contact Me
+Hi, I’m Rahul K.S 👋
+
+🔹 Engineering & AI Student at IIT Indore & Babuji Institute of Engineering and Technology
+🔹 Passionate about Development, Startups, and AI Research
+🔹 Exploring Flutter, Django, Node.js, and AI Agents
+🔹 Interested in Hackathons, Open-Source Contributions, and Product Development
+🔹 Love to create AI-powered applications, Web & Mobile Apps, and Startup Projects
+🔹 Always learning and experimenting with new technologies & tools
+
+---
+## 💡 Current Focus:
+🔹 Building Agent Store Project (AI Agents for automation)
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-k-s-a47756328/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/home">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rahul.k._s?igsh=MTN5MmU2bHluZnVzbw==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/rahul14322982">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+   
+---
+
+## 🛠 Tech Stack
+## 🛠️ Skills  
+
+**💻 Programming & Development**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,dart" />
+</p>
+
+**⚙️ Frameworks & Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django,nodejs,firebase" />
+</p>
+
+**☁️ Databases & Cloud**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+</p>
+
+**🤖 AI & ML**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vchaitanyachowdari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vchaitanyachowdari&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&layout=compact&theme=radical" width="48%" />
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vchaitanyachowdari&&style=flat-square" align="center" />
+</div>
 
 
