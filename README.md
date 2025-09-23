@@ -69,7 +69,8 @@ Hi, I’m Rahul K.S 👋
 ## Projects
 
 <p align="center">
-  <img src="IMG_20250923_232028.jpg" width="100" height="100" />
+  <p>Ordering App</p>
+  <img src="IMG_20250923_232028.jpg" width="500" height="250" />
 
 ---
 ## 📊 GitHub Stats
