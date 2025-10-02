@@ -54,8 +54,8 @@ Hi, I’m Rahul K.S 👋
 **API and Backend Server**
 <p align="center">
   <img
-src="IMG_20251002_125934.jpg"width="80" height="80" alt="FastAPI"/>
-  <img src="crew_only_logo.avif" width="110" height="110" alt="CrewAI" />
+src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
+  <img src="download.png" width="60" height="60" alt="CrewAI" />
   
   
 
