@@ -55,9 +55,10 @@ Hi, I’m Rahul K.S 👋
 <p align="center">
   <img
 src="IMG_20251002_125934.jpg"width="80" height="80" alt="FastAPI"/>
+  <img src="crew_only_logo.avif" width="110" height="110" alt="CrewAI" />
+  
+  
 
-  <img
-src="download.png"width="80" height="80" alt=""/>
 </p>
 
 **☁️ Databases & Cloud**  
