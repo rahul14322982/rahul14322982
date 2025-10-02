@@ -59,7 +59,7 @@ src="IMG_20251002_125934.jpg"width="110" height="110" alt="FastAPI"/>
 
 <p align="center">
   <img
-src=""width="110" height="110" alt=""/>
+src="download.png"width="110" height="110" alt=""/>
 </p>
 
 **☁️ Databases & Cloud**  
