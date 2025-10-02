@@ -57,6 +57,11 @@ Hi, I’m Rahul K.S 👋
 src="IMG_20251002_125934.jpg"width="110" height="110" alt="FastAPI"/>
 </p>
 
+<p align="center">
+  <img
+src=""width="110" height="110" alt=""/>
+</p>
+
 **☁️ Databases & Cloud**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
