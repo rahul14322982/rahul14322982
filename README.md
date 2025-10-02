@@ -48,7 +48,7 @@ Hi, I’m Rahul K.S 👋
 
 **⚙️ Frameworks & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,django,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,fastAPI,Render,firebase " />
 </p>
 
 **☁️ Databases & Cloud**  
