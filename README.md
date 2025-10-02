@@ -54,7 +54,7 @@ Hi, I’m Rahul K.S 👋
 **API and Backend Server**
 <p align="center">
   <img
-src=""/>
+src="IMG_20251002_125934.jpg"width="110" height="110" alt="FastAPI"/>
 </p>
 
 **☁️ Databases & Cloud**  
