@@ -91,7 +91,7 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
     <img src="project2.jpg" alt="Agent Store" style="width: 100%; height: 180px; object-fit: cover; border-radius: 10px;">
     <h3 style="color: #333; margin: 10px 0;">Agent Store</h3>
     <p style="color: #666; font-size: 0.95rem;">AI-powered automation project for managing tasks and operations efficiently.</p>
-    <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Project</a>
+    <a href="https://rahul14322982.github.io/Agent_Store/" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Project</a>
   </div>
 
 ---
