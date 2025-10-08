@@ -76,7 +76,7 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
 </p>
 
 ---
-## Projects
+## 💡Projects
 
  <!-- Project 1 -->
   <div style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; text-align: center; padding: 15px;">
