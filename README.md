@@ -55,7 +55,7 @@ Hi, I’m Rahul K.S 👋
   <img
 src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
   
-  <img src="IMG_20251008_211009.jpg" width="75" height="75" alt="Render" />
+  <img src="IMG_20251008_211009.jpg" width="135" height="135" alt="Render" />
   
   
 
