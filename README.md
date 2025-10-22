@@ -36,7 +36,7 @@ Hi, I’m Rahul K.S 👋
   </a>
 
   <a href="https://github.com/rahul14322982">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://www.kaggle.com/rahulks14322-%23121011.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 
 
