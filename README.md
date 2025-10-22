@@ -36,7 +36,7 @@ Hi, I’m Rahul K.S 👋
   </a>
 
   <a href="https://www.kaggle.com/rahulks14322">
-    <img src="https://img.shields.io/badge/kaggle-%23121011.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/kaggle-%23E4405F.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
 
