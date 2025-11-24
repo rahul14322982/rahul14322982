@@ -88,22 +88,10 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
 ---
 ## 💡Projects
 
- <!-- Project 1 -->
-  <div style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; text-align: center; padding: 15px;"><h3 style="color: #333; margin: 10px 0;">Ordering App</h3>
-    <p style="color: #666; font-size: 0.95rem;">A Flutter app that allows customers to place orders and shop owners to manage them efficiently.</p>
-    <img src="IMG_20250923_232028.jpg" alt="Ordering App" style="width: 100%; height: 450px; object-fit:cover; border-radius: 10px;">
-    
-   <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Project</a>
-  </div>
 
-  <!-- Project 2 -->
-  <div style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; text-align: center; padding: 15px;">
-    <h3 style="color: #333; margin: 10px 0;">Health_Agent</h3>
-    <p style="color: #666; font-size: 0.95rem;">AI-powered automation project for managing tasks and operations efficiently.</p>
-    <img src="file_00000000c8d061f8b4d63ec8f659359c.png" alt="Agent Store" style="width: 100%; height: 450px; object-fit: cover; border-radius: 10px;">
     
-  <a href="https://rahul14322982.github.io/Agent_Store/" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Project</a>
-  </div>
+   <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Projects</a>
+
 
 ---
 ## 📊 GitHub Stats
