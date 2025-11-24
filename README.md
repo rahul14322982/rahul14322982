@@ -92,7 +92,7 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
     
    <a href="project.md" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 10px; text-decoration: none;">View Projects>>>
    <p>
-     ->I builded the projects which I learn the skill, 
+     ->I build the projects which I learnt the skills and i use those all skills and traid the projects, 
      <p>
      ->I builded the real world projects.
      </p>
