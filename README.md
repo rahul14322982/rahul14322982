@@ -90,7 +90,7 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
 
 
     
-   <a href="#" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Projects</a>
+   <a href="project_part.html" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 8px; text-decoration: none;">View Projects</a>
 
 
 ---
