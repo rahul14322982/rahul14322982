@@ -85,6 +85,23 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
   <img src="n8n-docs-icon.svg" width="80" height="80" alt="n8n" />
 </p>
 
+----
+
+<h2>📜 Certificates & Achievements</h2>
+
+<h3>🎓 Professional & Technical Certifications</h3>
+
+<ul>
+  <li>🏅 <strong>MODEL_QUEST</li>
+  <li>🏅 <strong>CODE QUEST 2.0</strong></li>
+  <li>🏅 <strong>ML Ops Fundamental Masterclass</strong></li>
+</ul>
+
+<p>
+  📂 <strong>Certificate Proof:</strong>
+  <a href="certificates.md" target="_blank">View All Certificates</a>
+</p>
+
 ---
 ## 💡Projects
 
@@ -92,11 +109,11 @@ src="IMG_20251002_125934.jpg"width="60" height="60" alt="FastAPI"/>
     
    <a href="project.md" style="display: inline-block; margin-top: 10px; padding: 8px 15px; background-color: #007bff; color: #fff; border-radius: 10px; text-decoration: none;">View Projects>>>
    <p>
-     ->I build the projects which I learnt the skills and i use those all skills and traid the projects, 
+     <strong>->I build the projects which I learnt the skills and i use those all skills and traid the projects,</strong> 
      <p>
-     ->I builded the real world projects.
+     <strong>->I builded the real world projects.</strong>
      </p>
-     ->Please go through>>>>>>
+     <strong>->Please go through>>>>>></strong>
      </p>
    </a>
 
