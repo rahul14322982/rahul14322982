@@ -3,7 +3,7 @@
 
 Hi, I’m Rahul K.S 👋
 
-🔹 Engineering & AI Student at IIT Indore & Babuji Institute of Engineering and Technology
+🔹 Engineering & AI Student Babuji Institute of Engineering and Technology
 
 🔹 Passionate about Development, Startups, and AI Research
 
