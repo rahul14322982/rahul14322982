@@ -1,6 +1,6 @@
 <!-- Project 1 -->
   <div style="background-color: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; text-align: center; padding: 15px;">
-    <h3 style="color: #333; margin: 10px 0;">Doctor_Recomended_Model</h3>
+    <h3 style="color: #333; margin: 10px 0;">Doctor_Recommendation_Model</h3>
     <p style="color: #666; font-size: 0.95rem;">ML Model predicts the doctor details for perticular symptoms .</p>
     <img src="IMG_20260109_232449.jpg" alt="Agent Store" style="width: 100%; height: 450px; object-fit: cover; border-radius: 10px;">
     
