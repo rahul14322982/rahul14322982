@@ -38,7 +38,9 @@ Hi, I’m Rahul K.S 👋
   <a href="https://www.kaggle.com/rahulks14322">
     <img src="https://img.shields.io/badge/kaggle-%23E4405F.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-
+  <a href="https://youtube.com/@rahulk.s-e1w?si=9hgWoazJfDJESoYB">
+    <img src="https://img.shields.io/badge/youtube-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
 
 
